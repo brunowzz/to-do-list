@@ -1,11 +1,11 @@
 <h1 align="center" id="top"> Lista de Tarefas </h1>
 <h1 align=center> 
-<img src="" alt="image">
+<img src="https://github.com/brunowzz/to-do-list/blob/master/src/assets/desktop.png?raw=true" alt="image">
 </h1>
 
 > 🔎 Lista de tarefas para o seu Dia!
 
-🗔 <a href=""> A aplicação já está no ar 🎉 </a><br>
+🗔 <a href="https://lista-de-tarefasv1.netlify.app"> A aplicação já está no ar 🎉 </a><br>
 
 ## :page_facing_up: Explicação
 
